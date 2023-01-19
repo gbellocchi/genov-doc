@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
-===================================
+GenOv
+=====
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+**GenOv** (/lu'make/) is a Python-based toolchain that streamlines the design of accelerator-rich heterogeneous embedded architectures.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Introduction
+   Getting Started
+   Specification Source Files
+   System Generation
+   References
+   Useful Repositories
+   Contacts
